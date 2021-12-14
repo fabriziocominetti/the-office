@@ -1,5 +1,7 @@
 # The Office
 
+![The-Office](https://artesettima.it/wp-content/uploads/2021/01/top-of-story-michael-scott-image.jpg)
+
 Repository containing multiple projects regarding NBC's mockumentary 'The Office'.
 
 -- Project status: [Active]
