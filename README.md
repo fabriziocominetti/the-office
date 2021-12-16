@@ -32,6 +32,7 @@ Libraries: requests, BeautifulSoup, Pandas
 
 ## Repository overview
 
+```
 ├── README.md
 ├── data
 │   ├── the-office_lines.csv
@@ -41,7 +42,7 @@ Libraries: requests, BeautifulSoup, Pandas
     ├── x
     ├── x
     └── x
-
+```
 
 ## Installation & Usage
 
