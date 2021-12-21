@@ -30,7 +30,7 @@ Libraries: requests, BeautifulSoup, Pandas
 
 - Notebooks
 
-<!-- Second, summarize your results concisely. Make use of subheaders where appropriate. -->
+Exploratory data analysis of the dataset.
 
 ## Repository overview
 
@@ -41,9 +41,7 @@ Libraries: requests, BeautifulSoup, Pandas
 ├── web-scraping
 │   ├── scraper.py
 └── notebooks
-    ├── theoffice.ipynb
-    ├── x
-    └── x
+    └── theoffice.ipynb
 ```
 
 ## Acknolewdgments & Inspiration
