@@ -1,6 +1,6 @@
 # The Office
 
-![The-Office](https://artesettima.it/wp-content/uploads/2021/01/top-of-story-michael-scott-image.jpg)
+![The-Office](https://www.bardown.com/polopoly_fs/1.951196!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/michael-scott.png)
 
 Repository containing multiple projects regarding NBC's mockumentary 'The Office'.
 
