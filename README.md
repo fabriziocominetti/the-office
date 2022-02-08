@@ -46,5 +46,4 @@ Exploratory data analysis of the dataset.
 
 ## Acknolewdgments & Inspiration
 
-- [Dan Blevins](github.com/danblevins)
 - officequotes.net
